@@ -1,0 +1,6 @@
+framework module Pods_main_TaschEngine {
+  umbrella header "Pods-main-TaschEngine-umbrella.h"
+
+  export *
+  module * { export * }
+}

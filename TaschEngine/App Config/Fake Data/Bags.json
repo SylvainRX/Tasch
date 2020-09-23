@@ -1,0 +1,157 @@
+{
+  "bags": [
+    {
+      "id": 1,
+      "name": "Carrier",
+      "shortDescription": "Navy blue and Brown soft leather",
+      "description": "Our Mountain Briefcase is the ultimate shape changin, go to work, bum around town, travel the world, do it all every carry.",
+      "colors": [
+        {"value": "1F2B3B"},
+        {"value": "A16347"}
+      ],
+      "dimensions": [
+        {
+          "dimension": "height",
+          "centimeters": 36,
+          "inches": 14
+        },
+        {
+          "dimension": "width",
+          "centimeters": 38,
+          "inches": 15
+        },
+        {
+          "dimension": "depth",
+          "centimeters": 20,
+          "inches": 8
+        }
+      ],
+      "price": 250,
+      "quantity": 23,
+      "image": "bag_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Travol",
+      "shortDescription": "Soft leather bagg",
+      "description": "Protect and hold your laptop while on the move with the AmazonBasics 15.6-Inch Laptop Bag Professional. The bag features multiple storage compartments and features for all those must-have supplies and accessories.",
+      "colors": [
+        {"value": "1F2B3B"},
+        {"value": "CBC23F"},
+        {"value": "F2A039"}
+      ],
+      "dimensions": [
+        {
+          "dimension": "height",
+          "centimeters": 40,
+          "inches": 16
+        },
+        {
+          "dimension": "width",
+          "centimeters": 35,
+          "inches": 14
+        },
+        {
+          "dimension": "depth",
+          "centimeters": 12,
+          "inches": 5
+        }
+      ],
+      "price": 175,
+      "quantity": 0,
+      "image": "bag_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Urbanito",
+      "shortDescription": "Biker basics",
+      "description": "When you travel with your computer, there is no need to bring an additional bag or sleeve. The laptop bag’s interior compartment protects and cradles a laptop or notebook computer up to 15.6 inches.",
+      "colors": [
+        {"value": "D9D9D9"},
+        {"value": "A8684C"},
+        {"value": "D2EEE7"},
+        {"value": "292A2B"}
+      ],
+      "dimensions": [
+        {
+          "dimension": "height",
+          "centimeters": 20,
+          "inches": 8
+        },
+        {
+          "dimension": "width",
+          "centimeters": 65,
+          "inches": 26
+        },
+        {
+          "dimension": "depth",
+          "centimeters": 10,
+          "inches": 4
+        }
+      ],
+      "price": 75,
+      "quantity": 908,
+      "image": "bag_3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Papago Pack",
+      "shortDescription": "Perfect blend of style, function and durability.",
+      "description": "Large front pocket features a key clip and card pockets for quick access to important items. Hidden zippered back pocket so you can safely store your cellphone and wallet",
+      "colors": [
+        {"value": "517A96"},
+        {"value": "FAC933"}
+      ],
+      "dimensions": [
+        {
+          "dimension": "height",
+          "centimeters": 44,
+          "inches": 17
+        },
+        {
+          "dimension": "width",
+          "centimeters": 44,
+          "inches": 17
+        },
+        {
+          "dimension": "depth",
+          "centimeters": 22,
+          "inches": 9
+        }
+      ],
+      "price": 1299,
+      "quantity": 1,
+      "image": "bag_4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gravity Zero",
+      "shortDescription": "Laminated Heavy Duty Jute Bag. Hand maden with Natural fibers.",
+      "description": "The Jute comes from stem and ribbon. After harvesting the jute plants the fibres are extracted by retting. Retting process consist of bundling jute stems together and immersing them slow running water.",
+      "colors": [
+        {"value": "D6BAA5"},
+        {"value": "F72D39"}
+      ],
+      "dimensions": [
+        {
+          "dimension": "height",
+          "centimeters": 40,
+          "inches": 16
+        },
+        {
+          "dimension": "width",
+          "centimeters": 34,
+          "inches": 13
+        },
+        {
+          "dimension": "depth",
+          "centimeters": 3,
+          "inches": 1
+        }
+      ],
+      "price": 15,
+      "quantity": 1234567890,
+      "image": "bag_5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+// Home screen
+
+"home_screen.title" = "TASCH";
+
+"home_screen.product_catalogue.title" = "Product catalogue";
+
+// Cart
+
+"cart.wish_list.title" = "Your wish list";
+
+"cart.wish_list.total_cost.label" = "Total";
+
+"cart.wish_list.sub_total.label" = "Sub-total";
+
+"cart.wish_list.free_shipping_worldwide.message" = "Free Shipping World Wide";
+
+"cart.wish_list.check_out.action" = "Proceed to check out";
+
+"cart.wish_list.check_out.confirmation.message" = "Are you sure you want to procceed to checkout?";
+
+"cart.wish_list.check_out.confirmation.cancel.action" = "Cancel";
+
+"cart.wish_list.check_out.confirmation.validate.action" = "OK";
+
+"cart.empty_cart.message" = "Your wish list is empty. You can add items from the product catalogue";
+
+"cart.error.reload.action" = "Reload the cart";
+
+// Product Catalogue
+
+"product_catalogue.error.reload.action" = "Reload catalogue";
+
+// Wish List
+
+"wish_list.product_out_of_stock.message" = "Out of stock";
+
+"wish_list.error.reload.action" = "Reload wish list";
+
+// Product Detail
+
+"product_detail.free_shipping_worldwide.message" = "Free Shipping World Wide";
+
+"product_detail.colors.label" = "Colours";
+
+"product_detail.sizes.label" = "Sizes";
+
+"product_detail.height.label" = "H";
+
+"product_detail.width.label" = "W";
+
+"product_detail.depth.label" = "D";
+
+"product_detail.rate_product.label" = "Rate the product";
+
+"product_detail.add_to_wish_list.action" = "Add to wish list";
+
+"product_detail.remove_from_wish_list.action" = "Remove from wish list";
+
+"product_detail.error.reload.action" = "Reload product details";
+
+// Error
+
+"error.title" = "Error";
+
+"error.data_decoding.message" = "The received data is invalid. Please reload.";
+
+"error.data_not_found.message" = "Cound not find corresponding data. Please reload.";
+
+"error.network_no_interner.message" = "Could not load the data. Please make sure you have access to internet then reload.";
