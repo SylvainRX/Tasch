@@ -7,7 +7,7 @@ My results:
  - [/Demo and Instruction/Demo/Video.mov](https://github.com/SylvainRX/Tasch/blob/master/Demo%20and%20Instruction/Demo/Video.mov)
  - [/Demo and Instruction/Demo/Images](https://github.com/SylvainRX/Tasch/tree/master/Demo%20and%20Instruction/Demo/Images)
 
-This project goal is to demonstrate the usage of Clean Architecture and VIPER UI in an iOS app as well as Test Drive Development.<br>
+This project's goal is to demonstrate the usage of Clean Architecture and VIPER UI in an iOS app as well as Test Driven Development.<br>
 The allotted time for this project was about 20 hours. Because of this, it isn't perfect and the whole project wasn't done in TDD
 
 ## Clean Architecture
