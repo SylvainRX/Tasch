@@ -1,9 +1,5 @@
 # Tasch
 
-Instructions: 
- - [/Demo and Instruction/Instructions.pdf](https://github.com/SylvainRX/Tasch/blob/master/Demo%20and%20Instruction/Instructions.pdf)
-
-My results: 
  - [/Demo and Instruction/Demo/Video.mov](https://github.com/SylvainRX/Tasch/blob/master/Demo%20and%20Instruction/Demo/Video.mov)
  - [/Demo and Instruction/Demo/Images](https://github.com/SylvainRX/Tasch/tree/master/Demo%20and%20Instruction/Demo/Images)
 
